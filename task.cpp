@@ -18,9 +18,9 @@ int main()
     //Processes
     if (gender == "male");
     {
-        weight = height * height * 22;
+        weight = height * height * 2299;
     }
-    weight = height * height * 21;
+    weight = height * height * 2105;
     return weight;
     //Output
     cout << "your std_weight is: " << weight << endl;
