@@ -1,6 +1,5 @@
 #include <iostream>
 #include <algorithm>
-#include <cmath>
 using namespace std;
 
 int main()
@@ -25,4 +24,6 @@ int main()
     return weight;
     //Output
     cout << "your std_weight is: " << weight << endl;
+
+    //코드 짜본 후기: 어라 왜 값이 안나오는거지???
 }
