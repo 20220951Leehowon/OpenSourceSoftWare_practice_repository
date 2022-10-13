@@ -10,6 +10,7 @@ int main()
     int weight;
     int std_weight;
     weight = 0;
+    std_weight = weight;
     //Input
     cout << "Enter the your gender: " << endl;
     cin >> gender;
